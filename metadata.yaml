@@ -1,0 +1,39 @@
+_repo: God-and-The-King_42521
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42521-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Bowen, Marjorie
+    aliases:
+    - Costanzo, Gabrielle Margaret Vere Campbell
+    - Paye, Robert
+    - Campbell, Gabrielle Margaret Vere
+    - Long, Gabrielle Margaret Vere Campbell
+    - Long, Margaret Gabrielle Vere Campbell
+    - Long, Mrs. Arthur
+    - Campbell, Margaret
+    birthdate: 1888
+    deathdate: 1952
+    gutenberg_agent_id: '41727'
+    url: http://www.gutenberg.org/2009/agents/41727
+description: England's Glorious Revolution of 1688 was a time of confusion and upheaval
+  in virtually every domain, including religion, politics, and even the social class
+  system. Fans of historical fiction will appreciate Marjorie Bowen's tightly plotted
+  dramatization of the era, which focuses on the period following William and Mary's
+  ascendance to the throne.
+gutenberg_issued: '2013-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Revolution of 1688 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'James II, King of England, 1633-1701 -- Fiction'
+title: God and the King
+url: http://www.gutenberg.org/ebooks/42521
